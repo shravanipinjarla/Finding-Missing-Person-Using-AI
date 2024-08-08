@@ -19,7 +19,7 @@ The next step is to match the case images with user-submitted images using the K
 
 Once done, you'll have to click on the Refresh button to train the KNN model and then on Match to start matching images.
 
-What is Left?
+### What is Left?
  Login (Authentication)
  Submit new case
  Mobile Application (to submit user photos)
@@ -28,7 +28,7 @@ What is Left?
  Unit tests
 
  
-Developer
+### Developer
 Gagandeep Singh
 
 

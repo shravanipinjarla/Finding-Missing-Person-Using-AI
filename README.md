@@ -28,7 +28,7 @@ Once done, you'll have to click on the Refresh button to train the KNN model and
  Unit tests
 
  
-### Developer
+### Reference
 Gagandeep Singh
 
 
